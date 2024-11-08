@@ -89,9 +89,9 @@
 
 }
 
-
-
-
+::-webkit-scrollbar {
+  display: none;
+}
 
 /*-----------------------------------*\
   #RESET
